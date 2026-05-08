@@ -43,7 +43,6 @@ This project explores whether JA3/JA4 fingerprints alone are reliable enough to 
 
 ## Key Findings
 
-*Replace with your actual results from the paper:*
 
 - *Finding 1 — e.g., "JA3 alone misclassified X% of [family] sessions as legitimate VPN traffic due to shared TLS libraries."*
 - *Finding 2 — e.g., "JA4's segmented structure caught Y% more variants than JA3 in the same dataset."*
@@ -98,11 +97,8 @@ A companion video tutorial walks through the methodology and demonstrates finger
 
 ## References
 
-*Add the sources cited in your paper. Examples:*
+*Add the sources cited in paper.*
 
-- Althouse, J. (2017). *TLS Fingerprinting with JA3 and JA3S.* Salesforce Engineering.
-- FoxIO. (2023). *JA4+ Network Fingerprinting.*
-- Anderson, B., & McGrew, D. (2017). *Identifying Encrypted Malware Traffic with Contextual Flow Data.*
 
 ---
 
