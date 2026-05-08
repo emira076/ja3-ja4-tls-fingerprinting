@@ -108,7 +108,7 @@ A companion video tutorial walks through the methodology and demonstrates finger
 
 ## Author
 
-**Edwin [Last Name]**
+**Edwin Miranda**
 Forensic Computing Student | CGS 4285
 🔗 [LinkedIn](LINK) · [GitHub](LINK)
 
